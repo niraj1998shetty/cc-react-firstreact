@@ -1,0 +1,18 @@
+table,th,td{
+    border:1px solid rgb(124, 183, 235);
+    border-collapse: collapse;
+    text-align: center;
+    width:50% ;
+    margin:0px 0px 0px 10px;
+    background-color: lightcyan;
+    padding: 2%;
+}
+.nonveg{
+    color: red;
+}
+.veg{
+    color:green
+}
+th{
+    background-color: khaki;
+}
